@@ -1,5 +1,4 @@
-![download](https://github.com/user-attachments/assets/a2acc856-34c6-4f11-a847-4764cd1967c6)
-
+![welcome](https://github.com/user-attachments/assets/f67e4beb-0474-4bcf-a02e-c08b244a1335)
 
 
 
@@ -36,7 +35,14 @@
 
 ## Languages ​​I want to work in
 
-# Java | # Python | # Css | # Html | # Java Script | # C#
+# Java |  Python |  Css |  Html |  Java Script |  C#
+##
+
+
+
+
+
+![zZbL8WM2v](https://github.com/user-attachments/assets/2822990c-7baa-413d-b6d5-80d99b0f8da3)
 
 
 
@@ -51,4 +57,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/yourchannel](https://m.youtube.com/@Haj.alirezaYT))  
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Amjadi2008)
+
+
+
+![pngtree-thanks-for-watching-design-element-vector-png-image_6270613](https://github.com/user-attachments/assets/38c975a7-47c9-4682-afb9-1644806ee605)
 
