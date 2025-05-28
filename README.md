@@ -1,5 +1,3 @@
-![about-me](https://github.com/user-attachments/assets/51da0d47-4531-42c0-a40b-36d5d636ba82)![125307809-c0ddc380-e306-11eb-9155-f5dc796d3163](https://github.com/user-attachments/assets/60b06edd-b5ec-466a-a4cf-067682a9ae66)
-
 
 # Welcode To MY Github alirezaamjadi 👋
 
