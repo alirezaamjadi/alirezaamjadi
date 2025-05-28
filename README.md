@@ -1,4 +1,3 @@
-👋![125307809-c0ddc380-e306-11eb-9155-f5dc796d3163](https://github.com/user-attachments/assets/f6e3f4b8-e111-4454-aa51-c164445d249f)
 
 ![About Me](https://github.com/user-attachments/assets/e3dfec77-e873-4764-ba0a-08800ec79ec5)
 
