@@ -1,22 +1,24 @@
+![download](https://github.com/user-attachments/assets/a2acc856-34c6-4f11-a847-4764cd1967c6)
 
-![About Me](https://github.com/user-attachments/assets/e3dfec77-e873-4764-ba0a-08800ec79ec5)
+
+
+
+
 
 
 # Welcode To MY Github alirezaamjadi
 
-![images](https://github.com/user-attachments/assets/d1434dfa-e70d-47e4-97b5-d3a3ba0f0aa5)
-
-
-
-![about-me](https://github.com/user-attachments/assets/dcc4b5f8-4cc8-4f45-b2d1-6984e9714f07)
-
-
-# About me:
 
 
 
 
-![backiee-121134-landscape](https://github.com/user-attachments/assets/ac5bf625-b382-4a64-a1ef-b67b4a352aea)
+
+![About Me](https://github.com/user-attachments/assets/e3dfec77-e873-4764-ba0a-08800ec79ec5)
+
+
+
+
+
 ## - 🌏 I am Alireza Amjadi and I learned coding in Python in 2023. I am from Iran in Asia. Welcome to my GitHub.
 ## - 🔭 I am currently a student and I am in the 11th grade. 
 ## - 🌱 I finished Python and am completing my six language skills.
@@ -24,14 +26,23 @@
 ## - 👽 I am using Windows and I am coding with VS CODE until I can install Visual Studio 2025.
 ## - 📃 I'm usually interested in writing games and building websites.
 ## - 🧿 My six skills include: HTML_Css_C#_python_java_Java Script
- 
+ ![backiee-121134-landscape](https://github.com/user-attachments/assets/ac5bf625-b382-4a64-a1ef-b67b4a352aea)
 
 
 ##
 
+
+
+
 ## Languages ​​I want to work in
 
 # Java | # Python | # Css | # Html | # Java Script | # C#
+
+
+
+
+
+
 
 
 ![12761139](https://github.com/user-attachments/assets/65b57a75-d959-41dd-b268-5037c6cb4575)
