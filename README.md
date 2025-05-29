@@ -479,6 +479,8 @@
 
 
 
+[![Go To Website](https://img.shields.io/badge/Go%20To%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirezaamjadi.com)
+[![Go To Website](https://img.shields.io/badge/Go%20To%20Website-000000?style=for-the-badge&logoColor=white)](https://alirezaamjadi.com)
 
 
 
