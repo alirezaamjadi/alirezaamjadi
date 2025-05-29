@@ -26,6 +26,24 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://m.youtube.com/@Haj.alirezaYT" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; display: inline-block; border-radius: 50%; background: linear-gradient(45deg, #ff0000, #ff7300, #ffeb00, #47ff00, #00ffe7, #2b65ff, #ff00c8); padding: 15px; box-shadow: 0 0 15px #ff00c8;">
+    <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" style="border-radius: 50%; background: #000;" />
+  </a>
+  <a href="https://t.me/amjadi2008" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; display: inline-block; border-radius: 50%; background: linear-gradient(45deg, #0088cc, #00c6ff, #00ffd4, #00ffb3, #0088cc); padding: 15px; box-shadow: 0 0 15px #00ffd4;">
+    <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" style="border-radius: 50%; background: #000;" />
+  </a>
+  <a href="https://www.instagram.com/alirezaamjadi_?igsh=aHR4bGtxcjh2N2Jz&utm_source=qr" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; display: inline-block; border-radius: 50%; background: linear-gradient(45deg, #E1306C, #F77737, #FCAF45, #FFD15C); padding: 15px; box-shadow: 0 0 15px #E1306C;">
+    <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" style="border-radius: 50%; background: #000;" />
+  </a>
+  <a href="mailto:alirezaamjadi1387@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; display: inline-block; border-radius: 50%; background: linear-gradient(45deg, #D44638, #E44E42, #F06543); padding: 15px; box-shadow: 0 0 15px #D44638;">
+    <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" style="border-radius: 50%; background: #000;" />
+  </a>
+  <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; display: inline-block; border-radius: 50%; background: linear-gradient(45deg, #001F4D, #003366, #004080); padding: 15px; box-shadow: 0 0 15px #001F4D;">
+    <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Website" style="border-radius: 50%; background: #000;" />
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://m.youtube.com/@Haj.alirezaYT" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
