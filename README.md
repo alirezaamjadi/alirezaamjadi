@@ -11,6 +11,31 @@
   padding: 20px 50px;
   border-radius: 40px;
   cursor: pointer;
+  background: linear-gradient(270deg, red, orange, yellow, green, blue, indigo, violet, red);
+  background-size: 1400% 1400%;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  animation: rainbow 5s linear infinite;
+  user-select: none;
+">
+  Haj-Alireza Website
+</a>
+
+<style>
+@keyframes rainbow {
+  0% {background-position: 0% 50%;}
+  100% {background-position: 100% 50%;}
+}
+</style>
+
+
+<a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer" style="
+  font-size: 28px;
+  font-weight: bold;
+  padding: 20px 50px;
+  border-radius: 40px;
+  cursor: pointer;
   background: none;
   border: 4px solid transparent;
   background-image: linear-gradient(#121212, #121212), 
