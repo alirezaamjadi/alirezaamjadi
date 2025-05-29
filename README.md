@@ -25,11 +25,15 @@
     <img width="60" height="60" src="https://img.shields.io/badge/-&nbsp;-001F4D?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alirezaamjadi_?igsh=aHR4bGtxcjh2N2Jz&utm_source=qr)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirezaamjadi1387@gmail.com)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/@Haj.alirezaYT)  
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amjadi2008)  
 [![Website](https://img.shields.io/badge/Website-001F4D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirezaamjadi.com)
+
+
 
 <p align="center">
   <a href="https://m.youtube.com/@Haj.alirezaYT" target="_blank" rel="noopener noreferrer" style="margin: 0 15px; display: inline-block; border-radius: 50%; background: linear-gradient(45deg, #ff0000, #ff7300, #ffeb00, #47ff00, #00ffe7, #2b65ff, #ff00c8); padding: 15px; box-shadow: 0 0 15px #ff00c8;">
