@@ -30,6 +30,17 @@
 </p>
 
 
+<p align="center">
+  <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://svgshare.com/i/svQ.svg"
+      alt="Haj-Alireza Website"
+      width="120"
+      height="120"
+      style="border-radius: 50%;"
+    />
+  </a>
+</p>
 
 
 
