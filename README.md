@@ -6,6 +6,63 @@
 ![68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3938373838343838323632373839373731362f433933443032383637363544454531323935373144453543464145354543363945334639323934462f](https://github.com/user-attachments/assets/75c2791f-098a-4c38-acd2-af1bb3e26d6f)
 
 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Rainbow Text Button</title>
+<style>
+  body {
+    background-color: #121212;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  .rainbow-button {
+    font-size: 28px;
+    font-weight: bold;
+    padding: 20px 50px;
+    border-radius: 40px;
+    cursor: pointer;
+    background: none;
+    border: 4px solid transparent;
+    background-image: linear-gradient(#121212, #121212), 
+                      linear-gradient(270deg, red, orange, yellow, green, blue, indigo, violet, red);
+    background-origin: border-box;
+    background-clip: content-box, border-box;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    animation: rainbow 5s linear infinite;
+    text-align: center;
+    user-select: none;
+    text-decoration: none;
+  }
+  @keyframes rainbow {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 360% 50%;
+    }
+  }
+</style>
+</head>
+<body>
+  <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer" class="rainbow-button">
+    Haj-Alireza Website
+  </a>
+</body>
+</html>
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
