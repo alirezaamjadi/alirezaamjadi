@@ -23,6 +23,16 @@
   Haj-Alireza Website
 </a>
 
+<p align="center">
+  <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/--%20-%20%20-7E57C2?style=for-the-badge&logo=google-chrome&logoColor=white&label=" alt="Website" width="80" height="80" style="border-radius:50%" />
+  </a>
+</p>
+
+
+
+
+
 <style>
 @keyframes rainbow {
   0% {background-position: 0% 50%;}
