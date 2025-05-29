@@ -6,8 +6,10 @@
 
 
 ![4575f6_61244fa042204b16b95dfaba7bf935cc~mv2](https://github.com/user-attachments/assets/26a7ea9d-0249-4c7a-bc8c-1f8d3d6cfab0)
+![rbCwMFj](https://github.com/user-attachments/assets/ed2eacfa-46f1-4a6f-8922-376154e57cfd)
 
 
+![about-me (1)](https://github.com/user-attachments/assets/644d9a67-34dc-4816-9ad8-b798f860929d)
 
 
 
