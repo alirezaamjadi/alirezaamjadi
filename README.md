@@ -25,6 +25,27 @@
     <img width="60" height="60" src="https://img.shields.io/badge/-&nbsp;-001F4D?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
+<p align="center">
+  <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer" style="
+    display: inline-block;
+    background: linear-gradient(90deg, #001F4D, #003366, #00509E);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 18px 50px;
+    border-radius: 40px;
+    text-decoration: none;
+    box-shadow: 0 0 15px #003366;
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+  " onmouseover="this.style.background='linear-gradient(90deg, #00509E, #003366, #001F4D)'; this.style.boxShadow='0 0 25px #00509E';" onmouseout="this.style.background='linear-gradient(90deg, #001F4D, #003366, #00509E)'; this.style.boxShadow='0 0 15px #003366';">
+    Visit My Website  
+    <br />
+    Create Your Game Now  
+    <br />
+    Say and create whatever is on your mind.
+  </a>
+</p>
+
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alirezaamjadi_?igsh=aHR4bGtxcjh2N2Jz&utm_source=qr)  
