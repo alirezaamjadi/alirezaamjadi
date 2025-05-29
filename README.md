@@ -8,9 +8,10 @@
 
 <p align="center">
   <a href="https://alirezaamjadi.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Alirezaamjadi-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Alirezaamjadi" />
+    <img src="https://img.shields.io/badge/Website-Alirezaamjadi-001F4D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Alirezaamjadi" />
   </a>
 </p>
+
 
 
  <p align="center">
