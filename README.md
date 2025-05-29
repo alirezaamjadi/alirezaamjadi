@@ -4,11 +4,11 @@
 ##
 ##
 ##
+##
+##
 
 
 
-
-# Welcode To My Github alirezaamjadi
 
 
 
@@ -29,37 +29,37 @@
 ## - 👯 If anyone wants to make a game, I'll help, preferably in Python, the language of the PyGame library.
 ## - 👽 I am using Windows and I am coding with VS CODE until I can install Visual Studio 2025.
 ## - 📃 I'm usually interested in writing games and building websites.
-## - 🧿 My six skills include: HTML_Css_C#_python_java_Java Script
+ - 🧿 My six skills include: HTML_Css_C#_python_java_Java Script
  ![backiee-121134-landscape](https://github.com/user-attachments/assets/ac5bf625-b382-4a64-a1ef-b67b4a352aea)
 
 
+
+
 ##
-
-
 # This is my site. If you want to make a game, are thinking about making a game, or have a cool idea, you can go here.
 ![Tumblr](https://github.com/user-attachments/assets/574216dd-e0df-462a-8337-100aa2125e36)
 [![Go To Website](https://img.shields.io/badge/Go%20To%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirezaamjadi.com)
-
-
-
-
-
-
-
-
-
-
-
-
-
 ##
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Languages ​​I want to work in
 
 # Java |  Python |  Css |  Html |  Java Script |  C#
 ##
 
 
-##
+
 
 
 ![github-snake](https://github.com/user-attachments/assets/87d54cb7-f951-44f8-bdbd-bfbbf0ba73c9)
@@ -79,7 +79,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amjadi2008)  
 [![Website](https://img.shields.io/badge/Website-001F4D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirezaamjadi.com)
 ##
-![rbCwMFj](https://github.com/user-attachments/assets/3b2a9239-68fc-40d3-9ac5-bd9717e35bed)# Best Team In The World And My Favorite
+![rbCwMFj](https://github.com/user-attachments/assets/3b2a9239-68fc-40d3-9ac5-bd9717e35bed) 
+# Best Team In The World And My Favorite
 
  
 
