@@ -6,6 +6,79 @@
 ![68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3938373838343838323632373839373731362f433933443032383637363544454531323935373144453543464145354543363945334639323934462f](https://github.com/user-attachments/assets/75c2791f-098a-4c38-acd2-af1bb3e26d6f)
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Animated Cartoon Button</title>
+<style>
+  body {
+    background: #111;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .btn {
+    position: relative;
+    display: inline-block;
+    padding: 25px 60px;
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, #001F4D, #003366, #00509E);
+    border-radius: 50px;
+    cursor: pointer;
+    box-shadow: 0 0 15px #003366;
+    overflow: hidden;
+    transition: box-shadow 0.3s ease;
+    user-select: none;
+  }
+  .btn:hover {
+    box-shadow: 0 0 30px #00aaff, 0 0 40px #00ddff;
+  }
+  /* Cartoon RGB animated border */
+  .btn::before {
+    content: '';
+    position: absolute;
+    top: -5px; left: -5px; right: -5px; bottom: -5px;
+    border-radius: 55px;
+    padding: 2px;
+    background: linear-gradient(270deg,
+      red, orange, yellow, green, blue, indigo, violet, red);
+    background-size: 1400% 1400%;
+    animation: rgbshift 10s linear infinite;
+    -webkit-mask:
+      linear-gradient(#fff 0 0) content-box, 
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: destination-out;
+    mask-composite: exclude;
+    pointer-events: none;
+  }
+
+  @keyframes rgbshift {
+    0% {background-position: 0% 50%;}
+    50% {background-position: 100% 50%;}
+    100% {background-position: 0% 50%;}
+  }
+</style>
+</head>
+<body>
+  <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer" class="btn">
+    Visit My Website<br>
+    Create Your Game Now<br>
+    Say and create whatever is on your mind.
+  </a>
+</body>
+</html>
+
+
+
+
 <p align="center">
   <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer" style="
     display: inline-block;
