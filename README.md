@@ -1,11 +1,10 @@
 
 ![68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3938373838343838323632373839373731362f433933443032383637363544454531323935373144453543464145354543363945334639323934462f](https://github.com/user-attachments/assets/75c2791f-098a-4c38-acd2-af1bb3e26d6f)
 
+##
 
-[![Go To Website](https://img.shields.io/badge/Go%20To%20Website-000000?style=for-the-badge&logoColor=white)](https://alirezaamjadi.com)
 
 
-![about](https://github.com/user-attachments/assets/a1ed3ad0-348b-459f-835e-e285afbeaecf)
 
 
 
@@ -14,10 +13,11 @@
 
 
 
+![about-3-5010](https://github.com/user-attachments/assets/933463cd-1711-44cc-abb8-fe61bb991a83)
 
 
 
-![About Me](https://github.com/user-attachments/assets/e3dfec77-e873-4764-ba0a-08800ec79ec5)
+
 
 
 
@@ -52,8 +52,7 @@
 
 
 
-[![Go To Website](https://img.shields.io/badge/Go%20To%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirezaamjadi.com)
-[![Go To Website](https://img.shields.io/badge/Go%20To%20Website-000000?style=for-the-badge&logoColor=white)](https://alirezaamjadi.com)
+
 
 
 
