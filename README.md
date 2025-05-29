@@ -6,6 +6,26 @@
 ![68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3938373838343838323632373839373731362f433933443032383637363544454531323935373144453543464145354543363945334639323934462f](https://github.com/user-attachments/assets/75c2791f-098a-4c38-acd2-af1bb3e26d6f)
 
 
+<p align="center">
+  <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer" style="
+    display: inline-block;
+    background: linear-gradient(90deg, #001F4D, #003366, #00509E);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 20px 60px;
+    border-radius: 40px;
+    text-decoration: none;
+    box-shadow: 0 0 15px #003366;
+  ">
+    Visit My Website<br/>
+    Create Your Game Now<br/>
+    Say and create whatever is on your mind.
+  </a>
+</p>
+
+
+
 [![Visit my website](https://yourdomain.com/banner.gif)](https://yourdomain.com)
 [![Visit my website](https://yourdomain.com/banner.gif)](https://yourdomain.com)
 <p align="center">
