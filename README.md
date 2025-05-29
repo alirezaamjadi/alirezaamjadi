@@ -25,6 +25,24 @@
 </p>
 
 
+<p align="center">
+  <a href="https://m.youtube.com/@Haj.alirezaYT" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-Haj.alirezaYT-E53935?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://t.me/amjadi2008" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-amjadi2008-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/alirezaamjadi_?igsh=aHR4bGtxcjh2N2Jz&utm_source=qr" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-alirezaamjadi__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:alirezaamjadi1387@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-alirezaamjadi1387-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Website-Alirezaamjadi-001F4D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
+
 
 
 
