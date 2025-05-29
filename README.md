@@ -5,6 +5,7 @@
 [![Go To Website](https://img.shields.io/badge/Go%20To%20Website-000000?style=for-the-badge&logoColor=white)](https://alirezaamjadi.com)
 
 
+![about](https://github.com/user-attachments/assets/a1ed3ad0-348b-459f-835e-e285afbeaecf)
 
 
 
