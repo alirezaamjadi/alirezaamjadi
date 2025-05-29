@@ -10,6 +10,23 @@
 [![Visit my website](https://yourdomain.com/banner.gif)](https://yourdomain.com)
 
 
+<p align="center">
+  <a href="https://m.youtube.com/@Haj.alirezaYT" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-&nbsp;-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://t.me/amjadi2008" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-&nbsp;-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/alirezaamjadi_?igsh=aHR4bGtxcjh2N2Jz&utm_source=qr" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-&nbsp;-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:alirezaamjadi1387@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-&nbsp;-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/-&nbsp;-001F4D?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer">
