@@ -2,17 +2,9 @@
 ![68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3938373838343838323632373839373731362f433933443032383637363544454531323935373144453543464145354543363945334639323934462f](https://github.com/user-attachments/assets/75c2791f-098a-4c38-acd2-af1bb3e26d6f)
 
 ##
-![921303-2160x3840-samsung-4k-logo-barcelona-wallpaper-photo](https://github.com/user-attachments/assets/a0bed726-5ee8-44cf-9a72-7dd5acdc2015)
+##
+##
 
-
-![32069a_9e0be74972024e79ace3cd329ab0823f~mv2](https://github.com/user-attachments/assets/116462a1-495d-4e10-8ed6-207490bab95f)
-
-
-![4575f6_61244fa042204b16b95dfaba7bf935cc~mv2](https://github.com/user-attachments/assets/26a7ea9d-0249-4c7a-bc8c-1f8d3d6cfab0)
-![rbCwMFj](https://github.com/user-attachments/assets/ed2eacfa-46f1-4a6f-8922-376154e57cfd)
-
-
-![about-me (1)](https://github.com/user-attachments/assets/644d9a67-34dc-4816-9ad8-b798f860929d)
 
 
 
@@ -20,7 +12,8 @@
 
 
 
-![about-3-5010](https://github.com/user-attachments/assets/933463cd-1711-44cc-abb8-fe61bb991a83)
+![32069a_9e0be74972024e79ace3cd329ab0823f~mv2](https://github.com/user-attachments/assets/116462a1-495d-4e10-8ed6-207490bab95f)
+
 
 
 
@@ -43,15 +36,30 @@
 ##
 
 
+# This is my site. If you want to make a game, are thinking about making a game, or have a cool idea, you can go here.
+![Tumblr](https://github.com/user-attachments/assets/574216dd-e0df-462a-8337-100aa2125e36)
+[![Go To Website](https://img.shields.io/badge/Go%20To%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirezaamjadi.com)
 
 
-## Languages ​​I want to work in
+
+
+
+
+
+
+
+
+
+
+
+##
+# Languages ​​I want to work in
 
 # Java |  Python |  Css |  Html |  Java Script |  C#
 ##
 
 
-
+##
 
 
 ![github-snake](https://github.com/user-attachments/assets/87d54cb7-f951-44f8-bdbd-bfbbf0ba73c9)
@@ -61,7 +69,7 @@
 
 
 
-
+##
 
 ![12761139](https://github.com/user-attachments/assets/65b57a75-d959-41dd-b268-5037c6cb4575)
 
@@ -70,8 +78,14 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/@Haj.alirezaYT)  
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amjadi2008)  
 [![Website](https://img.shields.io/badge/Website-001F4D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirezaamjadi.com)
+##
+![rbCwMFj](https://github.com/user-attachments/assets/3b2a9239-68fc-40d3-9ac5-bd9717e35bed)# Best Team In The World And My Favorite
+
+ 
 
 
 
+
+##
 ![pngtree-thanks-for-watching-design-element-vector-png-image_6270613](https://github.com/user-attachments/assets/38c975a7-47c9-4682-afb9-1644806ee605)
 
