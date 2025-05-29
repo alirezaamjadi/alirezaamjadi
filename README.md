@@ -53,7 +53,7 @@
 
 ![12761139](https://github.com/user-attachments/assets/65b57a75-d959-41dd-b268-5037c6cb4575)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourinstagram](https://www.instagram.com/alirezaamjadi_?igsh=aHR4bGtxcjh2N2Jz&utm_source=qr))  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([[https://instagram.com/yourinstagram](https://www.instagram.com/alirezaamjadi_?igsh=aHR4bGtxcjh2N2Jz&utm_source=qr](https://www.instagram.com/alirezaamjadi_?igsh=aHR4bGtxcjh2N2Jz&utm_source=qr)))  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://youtube.com/yourchannel](https://m.youtube.com/@Haj.alirezaYT))  
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Amjadi2008)
