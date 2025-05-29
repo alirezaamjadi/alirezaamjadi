@@ -5,6 +5,39 @@
 ![2455275_6f9b5](https://github.com/user-attachments/assets/39b53cb1-fb46-4968-969e-424f869ff462)
 ![68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3938373838343838323632373839373731362f433933443032383637363544454531323935373144453543464145354543363945334639323934462f](https://github.com/user-attachments/assets/75c2791f-098a-4c38-acd2-af1bb3e26d6f)
 
+<a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer" style="
+  font-size: 28px;
+  font-weight: bold;
+  padding: 20px 50px;
+  border-radius: 40px;
+  cursor: pointer;
+  background: none;
+  border: 4px solid transparent;
+  background-image: linear-gradient(#121212, #121212), 
+                    linear-gradient(270deg, red, orange, yellow, green, blue, indigo, violet, red);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+  animation: rainbow 5s linear infinite;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  user-select: none;
+" onmouseover="this.style.animationPlayState='paused'" onmouseout="this.style.animationPlayState='running'">
+  Haj-Alireza Website
+</a>
+
+<style>
+@keyframes rainbow {
+  0% {background-position: 0% 50%;}
+  100% {background-position: 360% 50%;}
+}
+</style>
+
+
+
 
 
 <!DOCTYPE html>
