@@ -5,6 +5,14 @@
 [![Visit my website](https://yourdomain.com/banner.gif)](https://yourdomain.com)
 [![Visit my website](https://yourdomain.com/banner.gif)](https://yourdomain.com)
 
+
+<p align="center">
+  <a href="https://alirezaamjadi.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Alirezaamjadi-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Alirezaamjadi" />
+  </a>
+</p>
+
+
  <p align="center">
   <a href="https://m.youtube.com/@Haj.alirezaYT">
     <img src="https://img.shields.io/badge/Youtube-Haj.alirezaYT-red?style=for-the-badge&logo=youtube" />
