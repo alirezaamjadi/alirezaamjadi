@@ -27,7 +27,7 @@
 
 
 
-<p align="center">
+## <p align="center">
   <a href="https://alirezaamjadi.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-Alirezaamjadi-001F4D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Alirezaamjadi" />
   </a>
@@ -45,7 +45,7 @@
   <em style="color:#ccc;">Say and create whatever is on your mind.</em>
 </p>
 
-
+##
 
 <p align="center">
   <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer">
