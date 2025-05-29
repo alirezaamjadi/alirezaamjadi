@@ -5,7 +5,21 @@
 [![Visit my website](https://yourdomain.com/banner.gif)](https://yourdomain.com)
 [![Visit my website](https://yourdomain.com/banner.gif)](https://yourdomain.com)
 
- 
+ <p align="center">
+  <a href="https://m.youtube.com/@Haj.alirezaYT">
+    <img src="https://img.shields.io/badge/Youtube-Haj.alirezaYT-red?style=for-the-badge&logo=youtube" />
+  </a>
+  <a href="https://t.me/amjadi2008">
+    <img src="https://img.shields.io/badge/Telegram-amjadi2008-blue?style=for-the-badge&logo=telegram" />
+  </a>
+  <a href="https://www.instagram.com/alirezaamjadi_">
+    <img src="https://img.shields.io/badge/Instagram-alirezaamjadi_-pink?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="mailto:alirezaamjadi1387@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-alirezaamjadi1387@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 
 # Welcode To My Github alirezaamjadi
