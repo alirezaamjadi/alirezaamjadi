@@ -11,6 +11,19 @@
     <img src="https://img.shields.io/badge/Website-Alirezaamjadi-001F4D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Alirezaamjadi" />
   </a>
 </p>
+<p align="center">
+  <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://via.placeholder.com/800x180/001F4D/FFFFFF?text=Website+Alirezaamjadi" 
+      alt="Website Alirezaamjadi" 
+      width="800" height="180"
+    />
+  </a>
+  <br />
+  <strong style="color:#00bfff;">Create Your Game Now</strong><br />
+  <em style="color:#ccc;">Say and create whatever is on your mind.</em>
+</p>
+
 
 
 <p align="center">
