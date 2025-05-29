@@ -25,6 +25,25 @@
 </p>
 
 
+<p align="center">
+  <a href="https://alirezaamjadi.com" target="_blank" rel="noopener noreferrer" style="
+    display: inline-block;
+    background: linear-gradient(90deg, #001F4D, #003366, #00509E);
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 20px 60px;
+    border-radius: 40px;
+    text-decoration: none;
+    box-shadow: 0 0 15px #003366;
+  ">
+    Visit My Website<br/>
+    Create Your Game Now<br/>
+    Say and create whatever is on your mind.
+  </a>
+</p>
+
+
 
 [![Visit my website](https://yourdomain.com/banner.gif)](https://yourdomain.com)
 [![Visit my website](https://yourdomain.com/banner.gif)](https://yourdomain.com)
