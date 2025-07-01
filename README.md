@@ -29,7 +29,7 @@
 ## - 👯 If anyone wants to make a game, I'll help, preferably in Python, the language of the PyGame library.
 ## - 👽 I am using Windows and I am coding with VS CODE until I can install Visual Studio 2025.
 ## - 📃 I'm usually interested in writing games and building websites.
-## - 🧿 My six skills include: HTML_Css_C#_python_java_Java Script
+## - 🧿 My six skills include: HTML_Css_C#_python_java_Go Script
  ![backiee-121134-landscape](https://github.com/user-attachments/assets/ac5bf625-b382-4a64-a1ef-b67b4a352aea)
 
 
@@ -55,7 +55,7 @@
 
 
 # Languages ​​I want to work in
-## Java |  Python |  Css |  Html |  Java Script |  C#
+## Go |  Python |  Css |  Html |  Java Script |  C#
 
 
 
