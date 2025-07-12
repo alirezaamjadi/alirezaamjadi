@@ -4,21 +4,21 @@
 
 
 
-### <div align="center">I'm Alireza Amjadi Aspiring full-stack developer 👨‍💻 | Remote since 2023 🚀
+## <div align="center">I'm Alireza Amjadi Aspiring full-stack developer 👨‍💻 | Remote since 2023 🚀
 
 </div>  
   
 
-- 🔭 I'm working on a big client right now.  
+### - 🔭 I'm working on a big client right now.  
   
 
-- 🌱 I’m currently learning GoLang and Java Script  
+### - 🌱 I’m currently learning GoLang and Java Script  
   
 
-- 🌀 I want to be a backend first and then a frontend.  
+### - 🌀 I want to be a backend first and then a frontend.  
   
 
-- ⚡ The person who helped me become a programmer was my teacher, Mr. Hedayati.  
+### - ⚡ The person who helped me become a programmer was my teacher, Mr. Hedayati.  
   
 
 <br/>  
