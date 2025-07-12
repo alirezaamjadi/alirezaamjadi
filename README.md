@@ -1,11 +1,8 @@
 
+![448744302-75c2791f-098a-4c38-acd2-af1bb3e26d6f](https://github.com/user-attachments/assets/e87d8e5f-d82e-46c6-97c4-a8dbdc6dab55)
 
 
 
-<div align="center">
-<img src="https://github.com/alirezaamjadi" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Alireza Amjadi Aspiring full-stack developer 👨‍💻 | Remote since 2023 🚀
 
@@ -66,6 +63,9 @@
 <br/>  
 
 
+
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
@@ -83,8 +83,10 @@
 <br/>  
 
 
+
+![github-snake](https://github.com/user-attachments/assets/87d54cb7-f951-44f8-bdbd-bfbbf0ba73c9)
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alirezaamjadi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+![alirezaamjadi's Stats](https://github-readme-stats.vercel.app/api?username=alirezaamjadi&theme=dark&show_icons=true&hide_border=false&count_private=true)
 
 <br/>  
 
