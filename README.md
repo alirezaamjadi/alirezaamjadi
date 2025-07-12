@@ -1,95 +1,91 @@
 
-![68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3938373838343838323632373839373731362f433933443032383637363544454531323935373144453543464145354543363945334639323934462f](https://github.com/user-attachments/assets/75c2791f-098a-4c38-acd2-af1bb3e26d6f)
-
-##
-##
-##
-##
-##
 
 
 
+<div align="center">
+<img src="https://github.com/alirezaamjadi" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm Alireza Amjadi Aspiring full-stack developer 👨‍💻 | Remote since 2023 🚀
+
+</div>  
+  
+
+- 🔭 I'm working on a big client right now.  
+  
+
+- 🌱 I’m currently learning GoLang and Java Script  
+  
+
+- 🌀 I want to be a backend first and then a frontend.  
+  
+
+- ⚡ The person who helped me become a programmer was my teacher, Mr. Hedayati.  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
 
-![32069a_9e0be74972024e79ace3cd329ab0823f~mv2](https://github.com/user-attachments/assets/116462a1-495d-4e10-8ed6-207490bab95f)
+### Frontend  
+<div align="center">  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
 
 
 
+### Backend  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
+<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
 
 
 
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
 
 
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/(https://www.instagram.com/alirezaamjadi_?igsh=aHR4bGtxcjh2N2Jz&utm_source=qr)" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/@https://m.youtube.com/@Haj.alirezaYT" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
 
 
-## - 🌏 I am Alireza Amjadi and I learned coding in Python in 2023. I am from Iran in Asia. Welcome to my GitHub.
-## - 🔭 I am currently a student and I am in the 11th grade. 
-## - 🌱 I finished Python and am completing my six language skills.
-## - 👯 If anyone wants to make a game, I'll help, preferably in Python, the language of the PyGame library.
-## - 👽 I am using Windows and I am coding with VS CODE until I can install Visual Studio 2025.
-## - 📃 I'm usually interested in writing games and building websites.
-## - 🧿 My six skills include: HTML_Css_C#_python_java_Go Script
- ![backiee-121134-landscape](https://github.com/user-attachments/assets/ac5bf625-b382-4a64-a1ef-b67b4a352aea)
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alirezaamjadi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>  
 
-
-
-##
-
- This is my site. If you want to make a game, are thinking about making a game, or have a cool idea, you can go here.
-![Tumblr](https://github.com/user-attachments/assets/574216dd-e0df-462a-8337-100aa2125e36)
-[![Go To Website](https://img.shields.io/badge/Go%20To%20Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirezaamjadi.com)
-##
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Languages ​​I want to work in
-## Go |  Python |  Css |  Html |  Java Script |  C#
-
-
-
-
-
-
-![github-snake](https://github.com/user-attachments/assets/87d54cb7-f951-44f8-bdbd-bfbbf0ba73c9)
-
-
-
-
-
-
-##
-
-![12761139](https://github.com/user-attachments/assets/65b57a75-d959-41dd-b268-5037c6cb4575)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alirezaamjadi_?igsh=aHR4bGtxcjh2N2Jz&utm_source=qr)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alirezaamjadi1387@gmail.com)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://m.youtube.com/@Haj.alirezaYT)  
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amjadi2008)  
-[![Website](https://img.shields.io/badge/Website-001F4D?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alirezaamjadi.com)
-##
-
-![HD-wallpaper-fc-barcelona-spanish-football-club-catalonia-la-liga-fc-barcelona-logo-stone-background-lionel-messi-antoine-griezmann-gerard-pique](https://github.com/user-attachments/assets/1b45246d-c2b1-47b9-83b2-e525302a23b2)
-
-# Best Team In The World And My Favorite
-
-
- 
-
-
-
-
-##
-![pngtree-thanks-for-watching-design-element-vector-png-image_6270613](https://github.com/user-attachments/assets/38c975a7-47c9-4682-afb9-1644806ee605)
 
