@@ -85,7 +85,7 @@
 
 
 # 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alirezaamjadi?cardType=level&theme=dark&preferLogin=true&Text=0B50DD&Background=000000&Title=DDD700&Border=000000&Ring=1ADCDD)](https://git.io/awesome-stats-card)<br/>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alirezaamjadi?cardType=level&theme=dark&preferLogin=true&Text=0D59FF&Background=000000&Title=DDD700&Border=FFFFFF&Ring=1ADCDD)](https://git.io/awesome-stats-card)<br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
