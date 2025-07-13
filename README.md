@@ -84,10 +84,15 @@
 
 
 
-![github-snake](https://github.com/user-attachments/assets/87d54cb7-f951-44f8-bdbd-bfbbf0ba73c9)
-## Github Stats  
-![alirezaamjadi's Stats](https://github-readme-stats.vercel.app/api?username=alirezaamjadi&theme=dark&show_icons=true&hide_border=false&count_private=true)
+# 📊 GitHub Stats:
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alirezaamjadi?cardType=level&theme=dark&preferLogin=true&Text=0B50DD&Background=000000&Title=DDD700&Border=000000&Ring=1ADCDD)](https://git.io/awesome-stats-card)<br/>
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=alirezaamjadi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br/>  
 
 
