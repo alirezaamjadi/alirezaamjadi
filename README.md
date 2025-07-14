@@ -84,21 +84,18 @@
 
 
 
-## 📊 GitHub Statistics
+## 📊 My GitHub Stats
 
-<div align="center">
+<div align="center" style="background-color:#0d1117; border: 2px solid #00ffff; border-radius: 15px; padding: 20px;">
 
-<!-- Main GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=alirezaamjadi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=00ffff&icon_color=ffcc00&text_color=ffffff" width="60%" alt="GitHub Stats" />
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=alirezaamjadi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ffff&icon_color=ffcc00&text_color=c9d1d9&bg_color=0d1117" width="80%" alt="GitHub Stats"/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=00ffff&text_color=ffffff" width="40%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117" width="60%" alt="Top Languages"/>
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=alirezaamjadi&theme=tokyonight&hide_border=true&border_radius=10&ring=00ffff&fire=ffcc00&currStreakLabel=00ffff&sideLabels=ffffff&dates=ffffff" width="60%" alt="GitHub Streak" />
-
-
+<img src="https://streak-stats.demolab.com?user=alirezaamjadi&theme=tokyonight&hide_border=true&border_radius=15&ring=00ffff&fire=ffcc00&currStreakLabel=00ffff&sideLabels=c9d1d9&dates=c9d1d9" width="80%" alt="Streak Stats"/>
 
 <!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=alirezaamjadi&theme=darkhub&no-bg=true&margin-w=15&title=Stars,Followers,Repositories,Commit,PullRequest,Issues&row=2&column=3" width="80%" alt="GitHub Trophies" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=alirezaamjadi&theme=onedark&margin-w=15&no-bg=true&title=Stars,Followers,Repositories,Commit,PullRequest,Issues" width="90%" alt="GitHub Trophies"/>
