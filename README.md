@@ -88,40 +88,34 @@
 
 # GitHub Stats
 
-## Haj Alireza's Stats
-
-<p align="center" style="background-color:#000000; padding: 30px; border-radius: 25px; max-width: 700px; margin: auto;">
+<p align="center" style="background-color:#000000; padding: 30px; border-radius: 25px; max-width: 850px; margin: auto; display: flex; justify-content: center; gap: 40px;">
 
   <!-- GitHub General Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=alirezaamjadi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=00bfff&icon_color=ffd700&text_color=c0d6f7&bg_color=000000"
-    width="600"
+    width="400"
     alt="GitHub Stats"
-    style="display: block; margin: 20px auto;"
+    style="border: 3px solid #00bfff; border-radius: 20px; box-shadow: 0 0 15px #00bfff;"
   />
 
   <!-- Top Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=00bfff&text_color=c0d6f7&bg_color=000000"
-    width="600"
+    width="400"
     alt="Top Languages"
-    style="display: block; margin: 20px auto;"
+    style="border: 3px solid #00bfff; border-radius: 20px; box-shadow: 0 0 15px #00bfff;"
   />
 
-  <!-- Streak Stats -->
-  <img
-    src="https://streak-stats.demolab.com?user=alirezaamjadi&theme=tokyonight&hide_border=true&border_radius=20&ring=00bfff&fire=ffd700&currStreakLabel=00bfff&sideLabels=c0d6f7&dates=c0d6f7&bg_color=000000"
-    width="600"
-    alt="GitHub Streak Stats"
-    style="display: block; margin: 20px auto;"
-  />
+</p>
 
-  <!-- Trophies فقط خام بدون استایل اضافه -->
+<p align="center" style="background-color:#000000; padding: 30px 20px; max-width: 850px; margin: 40px auto;">
+
+  <!-- Trophies بزرگ‌تر و خام بدون استایل اضافه -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=alirezaamjadi&theme=radical&no-bg=true&margin-w=10"
+    src="https://github-profile-trophy.vercel.app/?username=alirezaamjadi&theme=radical&no-bg=true&margin-w=20"
     alt="GitHub Trophies"
-    width="600"
-    style="display: block; margin: 30px auto;"
+    width="800"
+    style="display: block; margin: auto;"
   />
 
 </p>
