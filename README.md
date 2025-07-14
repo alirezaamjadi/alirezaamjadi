@@ -84,33 +84,45 @@
 
 
 
-## <div align="center" style="color:#00bfff; font-size: 2.4rem; font-weight: 700; margin-bottom: 10px;">
-GitHub Stats
-</div>
 
-## <div align="center" style="color:#ffd700; font-size: 2rem; font-weight: 600; margin-bottom: 25px;">
-Haj Alireza's Stats
-</div>
 
-<div align="center" style="background-color:#000000; padding: 40px; border-radius: 25px; border: 3px solid #00bfff; max-width: 960px; margin: auto; box-shadow: 0 0 20px #00bfff;">
+# GitHub Stats
 
-  <table cellspacing="40" style="table-layout: fixed; width: 100%; max-width: 960px; background-color:#000000;">
-    <tr>
-      <td align="center" style="background-color:#000000; border-radius: 20px; vertical-align: middle;">
-        <img src="https://github-readme-stats.vercel.app/api?username=alirezaamjadi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=00bfff&icon_color=ffd700&text_color=c0d6f7&bg_color=000000" width="320" alt="GitHub Stats"/>
-      </td>
-      <td align="center" style="background-color:#000000; border-radius: 20px; vertical-align: middle;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=00bfff&text_color=c0d6f7&bg_color=000000" width="320" alt="Top Languages"/>
-      </td>
-      <td align="center" style="background-color:#000000; border-radius: 20px; vertical-align: middle;">
-        <img src="https://streak-stats.demolab.com?user=alirezaamjadi&theme=tokyonight&hide_border=true&border_radius=20&ring=00bfff&fire=ffd700&currStreakLabel=00bfff&sideLabels=c0d6f7&dates=c0d6f7&bg_color=000000" width="320" alt="Streak Stats"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center" style="padding-top: 40px; background-color:#000000; border-radius: 20px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=alirezaamjadi&theme=radical&margin-w=20&no-bg=false&title=Followers,Stars,Commits,Repositories,Issues,PullRequest,Organizations,Followers" width="960" alt="GitHub Trophies"/>
-      </td>
-    </tr>
-  </table>
+## Haj Alireza's Stats
 
-</div>
+<p align="center" style="background-color:#000000; padding: 30px; border-radius: 25px; max-width: 700px; margin: auto;">
+
+  <!-- GitHub General Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=alirezaamjadi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=00bfff&icon_color=ffd700&text_color=c0d6f7&bg_color=000000"
+    width="600"
+    alt="GitHub Stats"
+    style="display: block; margin: 20px auto;"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=00bfff&text_color=c0d6f7&bg_color=000000"
+    width="600"
+    alt="Top Languages"
+    style="display: block; margin: 20px auto;"
+  />
+
+  <!-- Streak Stats -->
+  <img
+    src="https://streak-stats.demolab.com?user=alirezaamjadi&theme=tokyonight&hide_border=true&border_radius=20&ring=00bfff&fire=ffd700&currStreakLabel=00bfff&sideLabels=c0d6f7&dates=c0d6f7&bg_color=000000"
+    width="600"
+    alt="GitHub Streak Stats"
+    style="display: block; margin: 20px auto;"
+  />
+
+  <!-- Trophies فقط خام بدون استایل اضافه -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=alirezaamjadi&theme=radical&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+    width="600"
+    style="display: block; margin: 30px auto;"
+  />
+
+</p>
+
