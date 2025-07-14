@@ -84,18 +84,33 @@
 
 
 
-## 📊 My GitHub Stats
+## <div align="center" style="color:#00bfff; font-size: 2.4rem; font-weight: 700; margin-bottom: 10px;">
+GitHub Stats
+</div>
 
-<div align="center" style="background-color:#0d1117; border: 2px solid #00ffff; border-radius: 15px; padding: 20px;">
+## <div align="center" style="color:#ffd700; font-size: 2rem; font-weight: 600; margin-bottom: 25px;">
+Haj Alireza's Stats
+</div>
 
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=alirezaamjadi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ffff&icon_color=ffcc00&text_color=c9d1d9&bg_color=0d1117" width="80%" alt="GitHub Stats"/>
+<div align="center" style="background-color:#000000; padding: 40px; border-radius: 25px; border: 3px solid #00bfff; max-width: 960px; margin: auto; box-shadow: 0 0 20px #00bfff;">
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&title_color=00ffff&text_color=c9d1d9&bg_color=0d1117" width="60%" alt="Top Languages"/>
+  <table cellspacing="40" style="table-layout: fixed; width: 100%; max-width: 960px; background-color:#000000;">
+    <tr>
+      <td align="center" style="background-color:#000000; border-radius: 20px; vertical-align: middle;">
+        <img src="https://github-readme-stats.vercel.app/api?username=alirezaamjadi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=00bfff&icon_color=ffd700&text_color=c0d6f7&bg_color=000000" width="320" alt="GitHub Stats"/>
+      </td>
+      <td align="center" style="background-color:#000000; border-radius: 20px; vertical-align: middle;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=00bfff&text_color=c0d6f7&bg_color=000000" width="320" alt="Top Languages"/>
+      </td>
+      <td align="center" style="background-color:#000000; border-radius: 20px; vertical-align: middle;">
+        <img src="https://streak-stats.demolab.com?user=alirezaamjadi&theme=tokyonight&hide_border=true&border_radius=20&ring=00bfff&fire=ffd700&currStreakLabel=00bfff&sideLabels=c0d6f7&dates=c0d6f7&bg_color=000000" width="320" alt="Streak Stats"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="3" align="center" style="padding-top: 40px; background-color:#000000; border-radius: 20px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=alirezaamjadi&theme=radical&margin-w=20&no-bg=false&title=Followers,Stars,Commits,Repositories,Issues,PullRequest,Organizations,Followers" width="960" alt="GitHub Trophies"/>
+      </td>
+    </tr>
+  </table>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=alirezaamjadi&theme=tokyonight&hide_border=true&border_radius=15&ring=00ffff&fire=ffcc00&currStreakLabel=00ffff&sideLabels=c9d1d9&dates=c9d1d9" width="80%" alt="Streak Stats"/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=alirezaamjadi&theme=onedark&margin-w=15&no-bg=true&title=Stars,Followers,Repositories,Commit,PullRequest,Issues" width="90%" alt="GitHub Trophies"/>
+</div>
