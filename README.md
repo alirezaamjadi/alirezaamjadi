@@ -84,9 +84,28 @@
 
 
 
-# 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/alirezaamjadi?cardType=level&theme=dark&preferLogin=true&Text=0D59FF&Background=000000&Title=DDD700&Border=FFFFFF&Ring=1ADCDD)](https://git.io/awesome-stats-card)<br/>
-<br/>
+## 📊 Github Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alirezaamjadi&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=alirezaamjadi&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alirezaamjadi&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/alirezaamjadi/alirezaamjadi/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
