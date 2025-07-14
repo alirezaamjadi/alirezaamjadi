@@ -84,34 +84,21 @@
 
 
 
-## 📊 Github Stats & Activity
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alirezaamjadi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<!-- Main GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=alirezaamjadi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=00ffff&icon_color=ffcc00&text_color=ffffff" width="60%" alt="GitHub Stats" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=alirezaamjadi&theme=radical" alt="GitHub Streak" />
-</p>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=00ffff&text_color=ffffff" width="40%" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alirezaamjadi&theme=darkhub&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=alirezaamjadi&theme=tokyonight&hide_border=true&border_radius=10&ring=00ffff&fire=ffcc00&currStreakLabel=00ffff&sideLabels=ffffff&dates=ffffff" width="60%" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://github.com/alirezaamjadi/alirezaamjadi/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=alirezaamjadi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<br/>  
-
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=alirezaamjadi&theme=darkhub&no-bg=true&margin-w=15&title=Stars,Followers,Repositories,Commit,PullRequest,Issues&row=2&column=3" width="80%" alt="GitHub Trophies" />
 
