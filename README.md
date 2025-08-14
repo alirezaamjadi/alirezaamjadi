@@ -101,7 +101,7 @@
   <!-- Top Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezaamjadi&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=00bfff&text_color=c0d6f7&bg_color=000000"
-    width="400"
+    width="300"
     alt="Top Languages"
     style="border: 3px solid #00bfff; border-radius: 20px; box-shadow: 0 0 15px #00bfff;"
   />
@@ -110,7 +110,7 @@
 
 <p align="center" style="background-color:#000000; padding: 30px 20px; max-width: 850px; margin: 40px auto;">
 
-  <!-- Trophies بزرگ‌تر و خام بدون استایل اضافه -->
+ 
   <img
     src="https://github-profile-trophy.vercel.app/?username=alirezaamjadi&theme=radical&no-bg=true&margin-w=20"
     alt="GitHub Trophies"
